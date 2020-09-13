@@ -1,14 +1,3 @@
-<style>
-  body{
-    background:black;
-    color:white
-  }
-  img{
-    margin: auto 1em;
-  } 
-  
-</style>
-
 # Hello, I'm Harish :wave: 
 
 <a href="https://twitter.com/HarishTeens">
