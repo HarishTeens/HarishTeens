@@ -49,19 +49,18 @@
 
 
 
-<a href="https://github.com/HarishTeens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishTeens&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/HarishTeens">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarishTeens&show_icons=true&theme=dark&line_height=27" alt="Vishal's github stats"/>
-</a>
-<a href="https://github.com/HarishTeens/gitinit">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishTeens&theme=dark&hide_langs_below=1" />
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarishTeens&show_icons=true&theme=dark&line_height=27" alt="Harish's github stats"/>
+
+<a href="https://github.com/HarishTeens/rpsgames/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=rpsgames&theme=dark" />
 </a>
-<a href="https://github.com/HarishTeens/gitinit">
+
+<a href="https://github.com/HarishTeens/yelpcamp/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=yelpcamp&theme=dark" />
 </a>
-</a>
+
 
 <div align="center">
 
