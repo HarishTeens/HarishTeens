@@ -25,8 +25,7 @@
 
 <!-- - 🔭 I’m currently working -->
 - 👯 I’m looking to collaborate on events that would be helpful in making a better tech community.
-- 🌱 I’m currently learning how to build automated workflows through GitHub actions. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-- 🤔 I’m looking for a job as a Software Developer.
+- 🌱 I’m currently working on NodeJS Apollo GraphQL backends. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 - 💬 Ask me about anything between Code and Community 💖
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:arishh2@gmail.com">arishh2@gmail.com</a>
 - 😄 Pronouns: He/Him 💁‍♂️
