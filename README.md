@@ -1,7 +1,7 @@
 # Hello, I'm Harish :wave: 
 
 <a href="https://twitter.com/HarishTeens">
-  <img align="left" alt="Harish's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" />
+  <img align="left" alt="Harish's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />
 </a>
 <a href="https://www.linkedin.com/in/harish-ramesh-babu-76272221/">
   <img align="left" alt="Harish's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
