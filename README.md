@@ -3,14 +3,8 @@
 <a href="https://twitter.com/HarishTeens">
   <img align="left" alt="Harish's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />
 </a>
-<a href="https://www.linkedin.com/in/harish-ramesh-babu-76272221/">
-  <img align="left" alt="Harish's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-</a>
 <a href="https://github.com/HarishTeens">
   <img align="left" alt="Harish's Github" width="22px" src="https://github.com/fluidicon.png" />
-</a>
-<a href="https://instagram.com/harish_teens/">
-  <img align="left" alt="Harish's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 <a href="https://medium.com/@arishh2">
   <img align="left" alt="Harish's Medium" width="22px" src="https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico" />
