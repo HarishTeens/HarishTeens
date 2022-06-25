@@ -1,7 +1,7 @@
 # Hello, I'm Harish :wave: 
 
 <a href="https://twitter.com/HarishTeens">
-  <img align="left" alt="Harish's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />
+  <img align="left" alt="Harish's Twitter" width="22px" src="https://img.icons8.com/color/344/twitter--v1.png" />
 </a>
 <a href="https://github.com/HarishTeens">
   <img align="left" alt="Harish's Github" width="22px" src="https://github.com/fluidicon.png" />
@@ -18,9 +18,10 @@
 
 
 <!-- - 🔭 I’m currently working -->
-- 👯 I’m exploring web3 all other time I ain't working on my day job.
-- 🌱 I’m currently working on NodeJS Apollo GraphQL backends. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-- 💬 Ask me about anything between Code and Community 💖
+- 👯 I’m working at [Cypherock](https://www.cypherock.com/) as full-stack dev. We're an early stage startup building the safest crypto wallet
+- 🌱 Also gradually learning how to build distributed, scalable backend systems. Atleast trying... 
+- 👨🏿‍💻 I have experience on ReactJS, Electron, NodeJS, GraphQL, Docker, configuring VMs and even a bit of C++.
+- 💬 Would love to talk to about Psychology, Game Theory or any niche passion that you might have 💖
 - 📫 How to reach me: <a style="color:#02ccff" href="https://twitter.com/HarishTeens">HarishTeens</a>
 - 😄 Pronouns: He/Him 💁‍♂️
 - ⚡ Fun fact: I am too much of a geek that my hobby is speedcubing :nerd_face:
