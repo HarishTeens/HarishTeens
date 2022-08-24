@@ -18,7 +18,7 @@
 
 
 <!-- - 🔭 I’m currently working -->
-- 👯 I’m working at [Cypherock](https://www.cypherock.com/) as full-stack dev. We're an early stage startup building the safest crypto wallet
+- 👯 I’m working at [GoSats](https://www.gosats.io/) as a Senior Software Engineer. We are India's easiest Bitcoin on-ramp.
 - 🌱 Also gradually learning how to build distributed, scalable backend systems. Atleast trying... 
 - 👨🏿‍💻 I have experience on ReactJS, Electron, NodeJS, GraphQL, Docker, configuring VMs and even a bit of C++.
 - 💬 Would love to talk to about Psychology, Game Theory or any niche passion that you might have 💖
