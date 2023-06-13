@@ -18,9 +18,10 @@
 
 
 <!-- - 🔭 I’m currently working -->
-- 👯 I’m working at [GoSats](https://www.gosats.io/) as a Senior Software Engineer. We are India's easiest Bitcoin on-ramp.
-- 🌱 Also gradually learning how to build distributed, scalable backend systems. Atleast trying... 
-- 👨🏿‍💻 I have experience on ReactJS, Electron, NodeJS, GraphQL, Docker, configuring VMs and even a bit of C++.
+- 👯 I’m a backend dev who quit to start his own <a href="https://thedevelopers.agency/"> Dev Agency </a> . Reach out to us if you need any tech help. We work with early stage startups to help them get from MVP to Series A.
+- 🌱 I can build saucy backends that run blazingly fast with NodeJS. Familiar with the AWS ecosystem very well.
+- 👨🏿‍💻 I can pretty much work on anything from serverless to configuring EC2s and NGINX.
+- 📙 Learning GO to write more faster backends with Concurrency.
 - 💬 Would love to talk to about Psychology, Game Theory or any niche passion that you might have 💖
 - 📫 How to reach me: <a style="color:#02ccff" href="https://twitter.com/HarishTeens">HarishTeens</a>
 - 😄 Pronouns: He/Him 💁‍♂️
