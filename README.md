@@ -48,11 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=ProtoMesh&theme=dark" />
 </a>
 
+
 ### I'm looking for job right now, here is my resume link: <a href="https://drive.google.com/file/d/1gCegLr9vBx-ZKlqejSXjCCFL9d1qHyk9/view?usp=sharing">Harish Resume </a>
-
-<div align="center">
-
-### You're on the right profile if you're looking for a highly enthusiastic Fullstack engineer who craves for challenging work.
-
-</div>
-
+Suitable Roles: SDE2, Fullstack Engineer, Backend Engineer, Cloud Engineer  
+Professional Experience: 3 years
