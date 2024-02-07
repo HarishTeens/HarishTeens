@@ -34,34 +34,25 @@
 
 <code><img height="20" src="https://www.python.org/static/favicon.ico"></code>
 <code><img height="20" src="https://isocpp.org/favicon.ico"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://www.mongodb.com/assets/images/global/favicon.ico"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/v9d82702993bc22f782b7874a0f933b5e39c1f0889acab7d1fce0d6deb8e0f63d/cloud/images/favicons/onecloud/favicon.ico"></code>
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishTeens&theme=dark&hide_langs_below=1" />
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarishTeens&show_icons=true&theme=dark&line_height=27" alt="Harish's github stats"/>
-
-<a href="https://github.com/HarishTeens/rpsgames/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=rpsgames&theme=dark" />
+## My Personal Projects for 2024
+<a href="https://github.com/HarishTeens/DynamicFormX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=DynamicFormX&theme=dark" />
 </a>
 
-<a href="https://github.com/HarishTeens/yelpcamp/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=yelpcamp&theme=dark" />
+<a href="https://github.com/HarishTeens/ProtoMesh/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarishTeens&repo=ProtoMesh&theme=dark" />
 </a>
 
+### I'm looking for job right now, here is my resume link: <a href="https://drive.google.com/file/d/1gCegLr9vBx-ZKlqejSXjCCFL9d1qHyk9/view?usp=sharing">Harish Resume </a>
 
 <div align="center">
 
-### You're on the right profile if you're looking for a highly enthusiastic Backend Developer.
+### You're on the right profile if you're looking for a highly enthusiastic Fullstack engineer who craves for challenging work.
 
 </div>
 
